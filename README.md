@@ -7,8 +7,8 @@ I ♥ every kind of development, but I mainly focus on Web-Dev(Backend and Front
   
 - [![GitHub](https://img.shields.io/badge/Maze%20Robot-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoahBlaaa15/maze-2020)
 - Trying to understand machine learning 🧠
-- Some smaller minecraft plugins ⛺
-- And a few arduino projects ⚡
+- Some smaller Minecraft plugins ⛺
+- And a few Arduino projects ⚡
 
 ## 💻 I'm working with:
 
@@ -18,7 +18,7 @@ I ♥ every kind of development, but I mainly focus on Web-Dev(Backend and Front
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
    
-  #### Desptop:
+  #### Desktop:
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
